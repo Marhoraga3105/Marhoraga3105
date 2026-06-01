@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! My name is Marvin 👋 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
 <!--
 **Marhoraga3105/Marhoraga3105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
